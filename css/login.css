@@ -8,7 +8,7 @@
   top: 0px;
   left: 0px;
   width: 100%;
-  height: 100%;
+  height: auto;
   background-color: #433c3c;
   text-align: center;
 }
@@ -16,7 +16,7 @@
 .page-wrap .page-header .page-header-upper {
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f8f9fb), to(#f5f7fa));
   background-image: linear-gradient(#f8f9fb, #f5f7fa);
-  height: 35px;
+  height: 0px;
 }
 
 .page-wrap .page-header .page-header-lower {
@@ -244,9 +244,9 @@
 .page-wrap .page-content .page-mid-wrap .page-mid .page-mid-section .page-mid-section-content .login-box .login-section .login-section-text {
   text-align: left;
   padding-left: 10%;
-  padding-top: 8px;
-  padding-bottom: 5px;
-  font-size: 18px;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  font-size: 15px;
   font-weight: 400;
   font-family: "Roboto",sans-serif;
   color: #e8e8e8;
@@ -256,7 +256,7 @@
   width: 100%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 500;
   font-family: "Mukta", sans-serif;
   padding: 5px 30px;
@@ -287,7 +287,7 @@
 .page-wrap .page-content .page-mid-wrap .page-mid .page-mid-section .page-mid-section-content .login-box .login-section .sign-up-btn {
   float: right;
   text-align: center;
-  padding: 10px 30px;
+  padding: 7.5px 20px;
   font-size: 15px;
   font-family: "Roboto" , sans-serif;
   font-weight: 450;
